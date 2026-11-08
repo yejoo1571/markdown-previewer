@@ -74,14 +74,14 @@ export default Preview;
 `src/components/Preview.jsx` | `Preview` | `미리보기`
 
 변경 전 | 변경 후
-![Text 변경 전](images/실행 화면 - style 변경.png) | ![Text 변경 후](images/실행 화면 - text 변경.png)
+![Text 변경 전](images/실행%20화면%20-%20style%20변경.png) | ![Text 변경 후](images/실행%20화면%20-%20text%20변경.png)
 
 ### Style
 `src/App.css` | `body` | `background-color`
 `src/App.css` | `textarea` | `border`
 
 변경 전 | 변경 후
-![Style 변경 전](images/실행 화면.png) | ![Style 변경 후](images/실행화면 - style 변경.png)
+![Style 변경 전](images/실행%20화면.png) | ![Style 변경 후](images/실행%20화면%20-%20style%20변경.png)
 
 ### UI/Data
 `src/components/Editor.jsx` | 입력창 아래에 글자 수 표시와 "전체 지우기" 버튼 추가
@@ -95,7 +95,7 @@ export default Preview;
 ```
 
 변경 전 | 변경 후
-![UI 변경 전](images/실행 화면 - style 변경.png) | ![UI 변경 후](images/실행 화면 - UI 변경.png)
+![UI 변경 전](images/실행%20화면%20-%20style%20변경.png) | ![UI 변경 후](images/실행%20화면%20-%20UI%20변경.png)
 
 ## 5. Deployment
 - Vercel URL : https://markdown-previewer-ecru-seven.vercel.app/
