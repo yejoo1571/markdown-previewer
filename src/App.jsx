@@ -8,7 +8,7 @@ const App = () => {
 
   return (
     <div className="app">
-      <h1 className='header'>Markdown Previewer</h1>
+      <h1 className='header'>마크다운 미리보기</h1>
       <div className="container">
         <Editor markdown={markdown} onChange={setMarkdown} />
         <Preview markdown={markdown} />
