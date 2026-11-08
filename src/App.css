@@ -61,3 +61,10 @@ textarea {
   flex: 1;
   overflow-y: auto;
 }
+
+.editor-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 8px;
+}

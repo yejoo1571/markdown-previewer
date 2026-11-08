@@ -9,6 +9,10 @@ const Editor = ({ markdown, onChange }) => {
         onChange={(e) => onChange(e.target.value)}
         placeholder="여기에 마크다운을 입력하세요..."
       />
+      <div className = "editor-footer">
+        <span>글자 수 : {markdown.length}</span>
+        <button onClick={() => onChange('')}>전체 지우기</button>
+      </div>
     </div>
   );
 };
